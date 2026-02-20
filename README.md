@@ -1,6 +1,6 @@
 # Klartext
 **This [Spicetify](https://spicetify.app/) extension simply removes gendered language in German!** <br/>
-So if this annoying you too, you can add this extension.
+If this annoys you too, you can add this extension. Gendered language will then no longer be displayed anywhere in Spotify.
 
 ### Compare it
 
