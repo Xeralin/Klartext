@@ -1,5 +1,5 @@
 # Klartext
-This Spicetify extension simply removes gendering in the German language, should that annoy you too.
+**This Spicetify extension simply removes gendering in the German language, should that annoy you too.**
 
 <br/>
 
