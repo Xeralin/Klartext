@@ -1,7 +1,7 @@
 # Klartext
 This **[Spicetify](https://spicetify.app/)** extension simply removes gendering in the German language, should that annoy you too.
 
-<br/>
+### Compare it
 
 ![Screenshot](https://github.com/Xeralin/Klartext/blob/main/Example.png)
 
