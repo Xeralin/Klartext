@@ -5,8 +5,10 @@ This Spicetify extension simply removes gendering in the German language, should
 
 ![Screenshot](https://github.com/Xeralin/Klartext/blob/main/Example.png)
 
+<br/>
+
 ## Installation
-To install the extension, first download Klartext.js from above. Then you need to enter a few commands in the terminal.
+To install the extension, first download Klartext.js from [here](https://github.com/Xeralin/Klartext/blob/main/Klartext.js). Then you need to enter a few commands in the terminal.
 First, open the Spicetify folder:
 ```bash
 spicetify config-dir
