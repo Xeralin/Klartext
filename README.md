@@ -4,9 +4,9 @@ So if this annoying you too, you can add this extension.
 
 ### Compare it
 
-![Screenshot](https://github.com/Xeralin/Klartext/blob/main/Klartext.png)
-
 ![Screenshot](https://github.com/Xeralin/Klartext/blob/main/Default.png)
+
+![Screenshot](https://github.com/Xeralin/Klartext/blob/main/Klartext.png)
 
 ## Installation
 Install [Spicetify](https://spicetify.app/) first. To install the extension, first download Klartext.js from [here](https://github.com/Xeralin/Klartext/releases/download/spicetify-extensions/Klartext.js). Then you need to enter a few commands in the terminal.
