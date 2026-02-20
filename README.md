@@ -1,5 +1,6 @@
 # Klartext
-This [Spicetify](https://spicetify.app/) extension simply removes gendered language in German. So if this has bothered you too, you can add this extension.
+**This [Spicetify](https://spicetify.app/) extension simply removes gendered language in German!** <br/>
+So if this has bothered you too, you can add this extension.
 
 ### Compare it
 
