@@ -3,9 +3,9 @@ This [Spicetify](https://spicetify.app/) extension simply removes gendered langu
 
 ### Compare it
 
-![Screenshot](https://github.com/Xeralin/Klartext/blob/main/Example.png)
+![Screenshot](https://github.com/Xeralin/Klartext/blob/main/Klartext.png)
 
-![Screenshot](https://github.com/Xeralin/Klartext/blob/main/NotExample.png)
+![Screenshot](https://github.com/Xeralin/Klartext/blob/main/Default.png)
 
 ## Installation
 Install [Spicetify](https://spicetify.app/) first. To install the extension, first download Klartext.js from [here](https://github.com/Xeralin/Klartext/blob/main/Klartext.js). Then you need to enter a few commands in the terminal.
