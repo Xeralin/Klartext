@@ -2,7 +2,6 @@
 This Spicetify extension simply removes gendering in the German language, should that annoy you too.
 <br/>
 ![Screenshot](https://github.com/Xeralin/Klartext/blob/main/Example.png)
-**(Example)**
 
 ## Installation
 To install the extension, you need to enter a few commands in the terminal.
