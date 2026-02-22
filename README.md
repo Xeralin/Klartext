@@ -9,7 +9,7 @@ If this annoys you too, you can add this extension. Gendered language will then 
 ![Screenshot](https://github.com/Xeralin/Klartext/blob/main/After.png)
 
 ## Installation
-To install the [Spicetify](https://spicetify.app/) extension manually, first download Klartext.js from above. Then you need to enter a few commands in the terminal.
+To install the [Spicetify](https://spicetify.app/) extension manually, first download **Klartext.js** from above. Then you need to enter a few commands in the terminal.
 First, open the Spicetify folder:
 ```bash
 spicetify config-dir
