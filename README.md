@@ -13,12 +13,12 @@ I recommend installing it via the [marketplace](https://github.com/spicetify/spi
 
 To install the [Spicetify](https://spicetify.app/) extension manually, first download `Klartext.js` from above. Then you need to enter a few commands in the terminal.
 First, open the Spicetify folder:
-```bash
+```sh
 spicetify config-dir
 ```
 Then place the Klartext.js file in the **Extension** folder.
 Finally, you need to adjust the configuration:
-```bash
+```sh
 spicetify config extensions Klartext.js
 spicetify apply
 ```
@@ -27,6 +27,6 @@ spicetify apply
 
 ## Uninstallation
 If you want to remove the extension, you can enter the following in the terminal:
-```bash
+```sh
 spicetify config extensions Klartext.js-
 ```
