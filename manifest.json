@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Klartext",
+    "description": "This Spicetify extension removes gendered language in German.",
+    "preview": "media/Preview.png",
+    "main": "klartext.js",
+    "readme": "README.md",
+    "tags": ["gender"]
+  }
+]
